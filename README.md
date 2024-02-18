@@ -1,6 +1,6 @@
 ### About me
 
-Hi, I'm a computer science graduate working mainly on gameplay programming.
+Hi, I'm a computer science graduate working mainly on gameplay programming!
 
 <!--
 **Boomboozled/Boomboozled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
