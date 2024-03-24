@@ -2,6 +2,9 @@
 
 Hi, I'm a computer science graduate working mainly on gameplay programming!
 
+I am starting to add footage of what I've worked on via Twitter, and soon YouTube.
+
+
 Twitter: https://twitter.com/rier_nymoen
 
 <!--
