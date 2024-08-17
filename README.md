@@ -1,1 +1,2 @@
-Working towards professionally programming games.
+Working towards programming games professionally.
+Currently using C++/UE5
