@@ -1,1 +1,1 @@
-Working towards profesionally game programming.
+Working towards professionally programming games.
