@@ -1,2 +1,1 @@
-Working towards programming games professionally.
-Currently using C++/UE5
+Background in Software Development, currently using C++ and Unreal Engine to make gameplay systems and mechanics.
